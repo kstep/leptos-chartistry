@@ -1,5 +1,5 @@
 use demo::pages::{demo::Demo, examples::Examples};
-use leptos::*;
+use leptos::prelude::*;
 use leptos_meta::provide_meta_context;
 use leptos_router::*;
 
